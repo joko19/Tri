@@ -10,7 +10,7 @@ android {
         versionCode 1
         versionName "1.0"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
-        buildConfigField "String", "ClientAccessToken", "\"016c44f73667438f8dae55ca7232d4b0 \""
+        buildConfigField "String", "ClientAccessToken", "\"yourapikey \""
     }
     buildTypes {
         release {
